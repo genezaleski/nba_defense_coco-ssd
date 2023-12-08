@@ -7,9 +7,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/genezaleski/nba_defense_coco-ssd">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Classifying NBA Defense with COCO-SSD </h3>
 
