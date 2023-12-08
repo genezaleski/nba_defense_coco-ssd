@@ -2,10 +2,6 @@
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -23,7 +19,7 @@
     <a href="https://github.com/genezaleski/nba_defense_coco-ssd"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/genezaleski/nba_defense_coco-ssd/videos/sixersG1_results.mov">View Demo</a>
+    <a href="https://github.com/genezaleski/nba_defense_coco-ssd/videos/sixersG1_results.gif">View Demo</a>
     ·
   </p>
 </div>
@@ -89,7 +85,7 @@ Once a server has been started, you can now view the project in your web browser
 
 Click on the "detectDefense.html" file from your local host directory listing. This will take you to an html page that will demo the project! Here is a preview of the results:
 
-[![Demo](https://github.com/genezaleski/nba_defense_coco-ssd/videos/sixersG1_results.mov)]
+[![Demo](https://github.com/genezaleski/nba_defense_coco-ssd/videos/sixersG1_results.gif)]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
